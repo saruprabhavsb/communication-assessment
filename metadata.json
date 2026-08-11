@@ -1,0 +1,6 @@
+{
+  "name": "SpeakSphere AI",
+  "description": "SpeakSphere AI is an AI-powered English communication platform for speaking practice, reading, vocabulary, grammar, listening, GD preparation, HR interviews, and technical interview practice.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
